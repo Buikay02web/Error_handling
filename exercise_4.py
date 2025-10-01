@@ -11,5 +11,5 @@ def divide_numbers():
     finally:
         print("Program execution completed.")
 
-# Call the function
+
 divide_numbers()
