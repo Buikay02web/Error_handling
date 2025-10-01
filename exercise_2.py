@@ -1,6 +1,7 @@
 def access_list_element():
-    my_list = ["apple", "banana", "cherry"]
+    my_list = ["Great", "samuel", "chibuike"]
     try:
+        
         index = int(input("Enter the index of the element: "))
         print(f"Element at index {index}: {my_list[index]}")
     except IndexError:
